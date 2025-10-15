@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SVD and Spring-Mass Chain Solver
 
 This project contains two main parts written in Python:
@@ -75,4 +76,3 @@ For each configuration, the solver computes:
 2. Run in terminal:
    ```bash
    python3 svd_spring_chain.py
-
